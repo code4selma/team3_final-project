@@ -32,7 +32,7 @@
 - paolo
     - [ ] header (logo)
     - [ ] hero 1
-- poonitha
+- poornitha
     - [ ] header
     - [ ] hero 2
 - selma
