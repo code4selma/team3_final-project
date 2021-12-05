@@ -30,7 +30,7 @@
 
 ## to do
 - paolo
-    - [ ] header
+    - [ ] header (logo)
     - [ ] hero 1
 - poonitha
     - [ ] header
