@@ -29,14 +29,14 @@
 
 ## to do
 - paolo
-    - [ ]
-    - [ ]
+    - [ ] task
+    - [ ] task
 - poonitha
-    - [ ]
-    - [ ]
+    - [ ] task
+    - [ ] task
 - selma
-    - [ ]
-    - [ ]
+    - [ ] task
+    - [ ] task
 - deniz
-    - [ ]
-    - [ ]
+    - [ ] task
+    - [ ] task
