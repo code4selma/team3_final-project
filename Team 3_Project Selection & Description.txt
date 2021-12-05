@@ -5,6 +5,7 @@
 (3) Project Members:        Paolo Rayco
                             Poonitha Dhananjaya Shetty
                             Selma Sedairia
+                            Deniz Alp Bayram
 
 (4) Project Description:    A community-centered, online marketplace platform for local artisans.
 
