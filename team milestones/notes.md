@@ -30,14 +30,14 @@
 
 ## to do
 - paolo
-    - [ ] task
-    - [ ] task
+    - [ ] header
+    - [ ] hero 1
 - poonitha
-    - [ ] task
-    - [ ] task
+    - [ ] header
+    - [ ] hero 2
 - selma
-    - [ ] task
-    - [ ] task
+    - [ ] features 1
+    - [ ] features 2
 - deniz
-    - [ ] task
-    - [ ] task
+    - [ ] features 3
+    - [ ] footer
