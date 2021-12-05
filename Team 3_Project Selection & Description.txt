@@ -1,0 +1,18 @@
+(1) Nature of Project:      Online Marketplace
+
+(2) Working Project Name:   undefined
+
+(3) Project Members:        Paolo Rayco
+                            Poonitha Dhananjaya Shetty
+                            Selma Sedairia
+
+(4) Project Description:    A community-centered, online marketplace platform for local artisans.
+
+(5) Key Features:           Social e-Commerce, Forums, Editorial Content
+
+(6) Rationale:
+    Despite the UAE being a land of opportunities, and amidst the efforts of the government and private organizations to promote its local cultural communities, there is little exposure of small- and medium-scale businesses of artists and artisans in the market. There's a growing support and demand for them, and they tend to be mostly seen in cultural events and pop up markets.
+
+    Since the pandemic, and because of the measures set in place to limit physical gathering, individual entrepreneurs both new and existing in social media platforms have relied heavily on the online presence of their products. We have seen a boost of setting up shops in various social media marketplaces such as Instagram Shopping and Facebook Groups. We've seen a trend of buying local and a budding community of buyers and sellers thriving in these online environments yet still isolated and mainly dependent on word-of-mouth marketing limited to its social media sphere. In these environments, those entrepreneurs get little exposure to their niche markets. As a result, they have been further pushed back to obscurity, widening the gap between local artisans and patrons.
+
+    Our project aims to address this gap. We want to create an online social community where local artists and artisans can showcase their products and benefit from our platform's mission to connect to the wider local market initially, with the vision of scaling up and promoting UAE-grown artists and entrepreneurs to global customers eventually. Our platform will stand out among other online marketplaces by specifically catering to artisanal products, becoming the top-of-mind online shop for those looking to support and buy local and for those needing a suitable platform to reach their niche markets. The platform would be designed to foster the connectedness of its user community and to catapult its notable sellers. Our platform will not be just another e-commerce website. We will be a catalyst for creating a strongly connected and lively marketplace for a mass cultural community in a fast-paced and ever-shifting landscape such as the UAE.
