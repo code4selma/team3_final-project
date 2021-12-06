@@ -30,14 +30,14 @@
 
 ## to do
 - paolo
-    - [ ] task
-    - [ ] task
-- poonitha
-    - [ ] task
-    - [ ] task
+    - [ ] header (logo)
+    - [ ] hero 1
+- poornitha
+    - [ ] header
+    - [ ] hero 2
 - selma
-    - [ ] task
-    - [ ] task
+    - [ ] features 1
+    - [ ] features 2
 - deniz
-    - [ ] task
-    - [ ] task
+    - [ ] features 3
+    - [ ] footer
